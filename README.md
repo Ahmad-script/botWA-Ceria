@@ -6,9 +6,9 @@
 
 #>pkg install git
 
-#>git clone https://github.com/Ahmad-script/bot-wa
+#>git clone https://github.com/Ahmad-script/botWA-Ceria
 
-#>cd bot-wa
+#>cd botWA-Ceria
 
 #>pkg install wget
 
